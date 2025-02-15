@@ -52,7 +52,7 @@ prebuilt_font {
 // This static version of fonts are for backward compatibility.
 prebuilt_font {
     name: "RobotoStatic-Regular.ttf",
-    src: "RobotoStatic-Regular.ttf",
+    src: "RobotoStatic-Regular.otf",
 }
 
 filegroup {
